@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/eisenhower-matrix/static/css/main.e584b121.css",
-    "main.js": "/eisenhower-matrix/static/js/main.099d39da.js",
+    "main.css": "/eisenhower-matrix/static/css/main.52a614e5.css",
+    "main.js": "/eisenhower-matrix/static/js/main.df741049.js",
     "index.html": "/eisenhower-matrix/index.html",
-    "main.e584b121.css.map": "/eisenhower-matrix/static/css/main.e584b121.css.map",
-    "main.099d39da.js.map": "/eisenhower-matrix/static/js/main.099d39da.js.map"
+    "main.52a614e5.css.map": "/eisenhower-matrix/static/css/main.52a614e5.css.map",
+    "main.df741049.js.map": "/eisenhower-matrix/static/js/main.df741049.js.map"
   },
   "entrypoints": [
-    "static/css/main.e584b121.css",
-    "static/js/main.099d39da.js"
+    "static/css/main.52a614e5.css",
+    "static/js/main.df741049.js"
   ]
 }
